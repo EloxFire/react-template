@@ -4,8 +4,13 @@ $cyan: #558DCA;
 $light_blue: #96FFFF;
 $blue_grey: #C8EFF9;
 
+*{
+  margin: 0;
+  padding: 0;
+}
 
-
-.app{
-
+.full-container{
+  height: 100vh;
+  width: 100%;
+  // background-color: #022999;
 }

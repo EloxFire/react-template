@@ -11,9 +11,9 @@ function App() {
     <div className="app">
       <Router>
         <Switch>
-          <Route path={routes.home} element={<Home />} />
-          <Route path={routes.page1} element={<PageOne />} />
-          <Route path={routes.page2} element={<PageTwo />} />
+          <Route path={routes.home.path} element={<Home />} />
+          <Route path={routes.page1.path} element={<PageOne />} />
+          <Route path={routes.page2.path} element={<PageTwo />} />
         </Switch>
       </Router>
     </div>

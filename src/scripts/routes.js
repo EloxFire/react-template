@@ -1,7 +1,7 @@
 export const routes = {
   home: {
     name: 'HOME',
-    path: '/home'
+    path: '/'
   },
   page1: {
     name: 'PAGEONE',
