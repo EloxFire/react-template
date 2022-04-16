@@ -7,6 +7,8 @@
 This template includes the basics for a React application. It includes the following packages and features :
 
 - Router / Navigation (`react-router-dom`)
+- Sass support (node-sass)
+- JQuery
 - Components
   - Navbar
   - Cards
