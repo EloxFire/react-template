@@ -11,3 +11,5 @@ This template includes the basics for a React application. It includes the follo
   - Navbar
   - Cards
   - Templates pages
+- Custom utility functions
+- Custom file structure
