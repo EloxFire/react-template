@@ -16,3 +16,4 @@ This template includes the basics for a React application. It includes the follo
 - Custom utility functions
 - Custom file structure
 - Built-in color palette
+- Unified Styles
